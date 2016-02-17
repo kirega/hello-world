@@ -1,2 +1,5 @@
-# hello-world
-just starting
+#include <iostream>
+int main()
+{
+  std::cout>>"HEllo world";
+}  
